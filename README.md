@@ -136,4 +136,5 @@ l2. maximal score amongst all positive bigram lexicons
 
 Special features of my classifier:
 I am using a LinearSVM classifier with a C  value of 10 (for all 4).
+
 While the results are stable, the F1 score was not very high for one class (because of skewed data). Thus, this is a limitation of my classifier. 
